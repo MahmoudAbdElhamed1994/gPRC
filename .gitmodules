@@ -1,3 +1,6 @@
 [submodule "PaymentService"]
 	path = PaymentService
 	url = https://github.com/MahmoudAbdElhamed1994/PaymentService
+[submodule "InventoryService"]
+	path = InventoryService
+	url = https://github.com/MahmoudAbdElhamed1994/InventoryService
